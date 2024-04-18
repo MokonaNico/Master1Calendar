@@ -5070,11 +5070,6 @@
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
-                    "start": "2024-05-13T15:45:00",
-                    "end": "2024-05-13T17:45:00"
                 }
             ],
             "Structures de donn\u00e9es II": [
@@ -5263,11 +5258,6 @@
                     "title": "Advanced Operating Systems\nMr BUYS\nNiDeVinci.Mirzakhani",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00"
-                },
-                {
-                    "title": "Advanced Operating Systems\nMr BUYS\nNiP.0A07",
-                    "start": "2024-04-29T08:15:00",
-                    "end": "2024-04-29T10:15:00"
                 },
                 {
                     "title": "Advanced Operating Systems\nMr BUYS\nNiP.0A07",
@@ -9293,11 +9283,6 @@
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
-                    "start": "2024-05-13T15:45:00",
-                    "end": "2024-05-13T17:45:00"
                 }
             ],
             "Software evolution": [
@@ -17011,11 +16996,6 @@
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
-                    "start": "2024-05-13T15:45:00",
-                    "end": "2024-05-13T17:45:00"
                 }
             ],
             "Structure de donn\u00e9es II": [
