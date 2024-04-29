@@ -9245,6 +9245,11 @@
                     "title": "Sciences et soci\u00e9t\u00e9\nMr BROCORENS\nNiP.0A07",
                     "start": "2024-05-08T08:15:00",
                     "end": "2024-05-08T10:15:00"
+                },
+                {
+                    "title": "Sciences et soci\u00e9t\u00e9\nMr BROCORENS\nNiB4.Penrose",
+                    "start": "2024-05-17T10:30:00",
+                    "end": "2024-05-17T12:30:00"
                 }
             ],
             "Selected topics in Cybersecuri": [
@@ -12232,6 +12237,11 @@
                     "title": "Alg\u00e8bre II\nMr RAMLOT, Mme VOLKOV\nNiP.3E10",
                     "start": "2024-05-14T08:15:00",
                     "end": "2024-05-14T10:15:00"
+                },
+                {
+                    "title": "Alg\u00e8bre II\nMr RAMLOT, Mme VOLKOV\nNiP.0A11",
+                    "start": "2024-06-07T13:30:00",
+                    "end": "2024-06-07T16:30:00"
                 }
             ],
             "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie II": [
@@ -13786,13 +13796,13 @@
                 },
                 {
                     "title": "M\u00e9canique classique I\nMr LECLERE\nNiB4.119",
-                    "start": "2024-06-05T13:30:00",
-                    "end": "2024-06-05T17:30:00"
+                    "start": "2024-06-05T08:15:00",
+                    "end": "2024-06-05T12:15:00"
                 },
                 {
-                    "title": "M\u00e9canique classique I\nMr LECLERE\nNiB4.233",
-                    "start": "2024-06-07T08:15:00",
-                    "end": "2024-06-07T12:15:00"
+                    "title": "M\u00e9canique classique I\nMr LECLERE\nNiB4.119",
+                    "start": "2024-06-05T13:30:00",
+                    "end": "2024-06-05T17:30:00"
                 }
             ],
             "Probabilit\u00e9 et statistique I": [
@@ -16632,11 +16642,6 @@
                     "title": "M\u00e9canique quantique - applications\nMr CHEVALIER, Mr SEMAY\nNiP.3E20",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00"
-                },
-                {
-                    "title": "M\u00e9canique quantique - applications\nMr CHEVALIER, Mr SEMAY\nNiDeVinci.Mirzakhani",
-                    "start": "2024-05-10T10:30:00",
-                    "end": "2024-05-10T12:30:00"
                 },
                 {
                     "title": "M\u00e9canique quantique - applications\nMr CHEVALIER, Mr SEMAY\nNiB6.18",
