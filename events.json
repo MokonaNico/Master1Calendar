@@ -3273,6 +3273,13 @@
                     "end": "2024-06-19T12:15:00"
                 }
             ],
+            "R\u00e9servation de salles": [
+                {
+                    "title": "R\u00e9servation de salles\nMme BRUYERE\nNiDeVinci.Mirzakhani",
+                    "start": "2024-05-10T12:30:00",
+                    "end": "2024-05-10T13:30:00"
+                }
+            ],
             "Structures de donn\u00e9es I": [
                 {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mr DUSOLLIER\nNiP.0A07",
@@ -3626,37 +3633,37 @@
                     "end": "2024-04-24T17:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-29T08:00:00",
                     "end": "2024-07-29T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-30T08:00:00",
                     "end": "2024-07-30T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-31T08:00:00",
                     "end": "2024-07-31T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-01T08:00:00",
                     "end": "2024-08-01T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-02T08:00:00",
                     "end": "2024-08-02T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-03T08:00:00",
                     "end": "2024-08-03T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.020, NiV\u00e9sale.023, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.025",
+                    "title": "_\n\nNiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiV\u00e9sale.LaFontaine, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-04T08:00:00",
                     "end": "2024-08-04T22:00:00"
                 }
@@ -4660,7 +4667,7 @@
                     "end": "2024-03-20T12:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00"
                 },
@@ -4720,7 +4727,7 @@
                     "end": "2024-05-08T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-05-10T10:30:00",
                     "end": "2024-05-10T12:30:00"
                 },
@@ -5041,6 +5048,13 @@
                     "title": "Projet struct.donn\u00e9es II\nMme BRUYERE\nNiP.0A11",
                     "start": "2024-06-21T08:15:00",
                     "end": "2024-06-21T17:15:00"
+                }
+            ],
+            "R\u00e9servation de salles": [
+                {
+                    "title": "R\u00e9servation de salles\nMme BRUYERE\nNiDeVinci.Mirzakhani",
+                    "start": "2024-05-10T12:30:00",
+                    "end": "2024-05-10T13:30:00"
                 }
             ],
             "S\u00e9minaires d'Informatique en gestion d'entreprise": [
@@ -5385,37 +5399,37 @@
                     "end": "2024-04-24T17:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-07-29T08:00:00",
                     "end": "2024-07-29T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-07-30T08:00:00",
                     "end": "2024-07-30T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-07-31T08:00:00",
                     "end": "2024-07-31T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-08-01T08:00:00",
                     "end": "2024-08-01T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-08-02T08:00:00",
                     "end": "2024-08-02T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-08-03T08:00:00",
                     "end": "2024-08-03T22:00:00"
                 },
                 {
-                    "title": "_\n\nNiGA.Gutenberg, NiGA.VanGogh, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiV\u00e9sale.025, NiV\u00e9sale.020, NiV\u00e9sale.023",
+                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.023, NiV\u00e9sale.030, NiV\u00e9sale.020, NiGA.VanGogh",
                     "start": "2024-08-04T08:00:00",
                     "end": "2024-08-04T22:00:00"
                 }
@@ -5459,7 +5473,7 @@
                     "end": "2023-12-12T15:30:00"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr AMEL, Mr MAHMOUDI, Mme COOLS\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
                     "start": "2023-12-14T08:30:00",
                     "end": "2023-12-14T11:30:00"
                 },
@@ -5469,7 +5483,7 @@
                     "end": "2023-12-19T15:30:00"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr AMEL, Mr MAHMOUDI, Mme COOLS\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
                     "start": "2023-12-21T08:30:00",
                     "end": "2023-12-21T11:30:00"
                 },
@@ -7685,7 +7699,7 @@
                     "end": "2024-05-08T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-05-10T10:30:00",
                     "end": "2024-05-10T12:30:00"
                 },
@@ -9058,12 +9072,12 @@
                     "end": "2023-12-20T12:30:00"
                 },
                 {
-                    "title": "Projet d'expertises digitale et logicielle\nMr GILLIS, Mr MAHMOUDI\nHo.25",
+                    "title": "Projet d'expertises digitale et logicielle\nMr MAHMOUDI, Mr GILLIS\nHo.25",
                     "start": "2024-01-11T08:15:00",
                     "end": "2024-01-11T12:15:00"
                 },
                 {
-                    "title": "Projet d'expertises digitale et logicielle\nMr GILLIS, Mr MAHMOUDI\nHo.25",
+                    "title": "Projet d'expertises digitale et logicielle\nMr MAHMOUDI, Mr GILLIS\nHo.25",
                     "start": "2024-01-11T13:30:00",
                     "end": "2024-01-11T17:30:00"
                 }
@@ -9213,6 +9227,13 @@
                     "title": "R\u00e9seaux II\nMr QUOITIN\nNiP.3E20",
                     "start": "2024-01-18T13:30:00",
                     "end": "2024-01-18T17:30:00"
+                }
+            ],
+            "R\u00e9servation de salles": [
+                {
+                    "title": "R\u00e9servation de salles\nMme BRUYERE\nNiDeVinci.Mirzakhani",
+                    "start": "2024-05-10T12:30:00",
+                    "end": "2024-05-10T13:30:00"
                 }
             ],
             "Sciences et soci\u00e9t\u00e9": [
@@ -16433,7 +16454,7 @@
                     "end": "2024-05-08T15:30:00"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-05-10T10:30:00",
                     "end": "2024-05-10T12:30:00"
                 },
